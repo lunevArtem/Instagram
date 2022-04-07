@@ -1,0 +1,176 @@
+body {
+  background-color: #fafafa;
+}
+div .form-control me-2 {
+  background-color: #e5e5e5;
+}
+.navbar-brand {
+  font-size: 30px;
+  font-family: Harlow Solid;
+}
+
+.navbar-brand {
+  margin-right: 18%;
+  margin-left: 10%;
+}
+
+.gg {
+  width: 60%;
+  background-color: beige;
+}
+.col-sm-4 {
+  margin-top: 2%;
+}
+.container1 {
+  margin-left: 23%;
+  margin-top: 1%;
+}
+.inst {
+  width: 45%;
+}
+.square {
+  position: relative;
+  top: -7px;
+}
+.name {
+  font-size: 150%;
+  font-family: Arial;
+}
+.confirmed {
+  width: 7%;
+}
+.col-10 {
+  margin-top: 3%;
+}
+.col-2 {
+  margin-right: 3px;
+}
+.inst {
+  margin-left: 5rem;
+}
+
+.container3 {
+  margin-top: 3%;
+  margin-left: 5%;
+}
+.img1 {
+  width: 300px;
+  height: 300px;
+}
+
+.buttons {
+  background-color: #fafafa;
+  color: red;
+}
+.publication {
+  font-size: 16px;
+}
+
+.Instagram {
+  font-weight: bold;
+}
+
+.hashtag {
+  font-family: arial;
+  color: #006fb0;
+}
+
+.link {
+  font-weight: 500;
+  color: #00406b;
+}
+
+.text1 {
+  color: black;
+}
+
+.container4 {
+  margin-top: 2rem;
+  margin-left: 23.5%;
+  margin-right: 10rem;
+}
+
+.img2 {
+  width: 100%;
+  height: 100%;
+}
+
+.text-left {
+  margin-top: 22.5px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.Publication {
+  color: black;
+}
+
+.footer {
+  font-size: 12px;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.footer-text {
+  color: #999;
+  padding-right: 5px;
+}
+
+.language {
+  border: none;
+  color: #999;
+  size: 1px;
+  padding-bottom: 20px;
+}
+
+.footer-container {
+  display: inline-flex;
+  flex-direction: row;
+  margin-top: 1rem;
+}
+
+.page {
+  color: #999;
+  font-size: 14px;
+}
+
+.vb1 {
+  display: inline-flexbox;
+  flex-direction: row;
+}
+
+.img3 {
+  border-radius: 50%;
+  width: 7%;
+  border-style: solid;
+  border-color: #e5e5e5;
+  margin-left: 10rem;
+}
+.img4 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #e5e5e5;
+  width: 7%;
+  margin-left: 2.8rem;
+}
+
+#carouselExampleControls {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.icons {
+  width: 8%;
+  padding-left: 6px;
+}
+
+.hr1 {
+  width: 74%;
+  margin: 0 20% 0 11%;
+  align: center;
+  color: #9e9e9e;
+}
